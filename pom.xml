@@ -12,6 +12,10 @@
     <modules>
         <module>codereview-blog</module>
         <module>codereview-forum</module>
+        <module>renren-common</module>
+        <module>renren-fast</module>
+        <module>codereview-gateway</module>
+        <module>renren-generator</module>
     </modules>
 
 </project>
